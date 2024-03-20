@@ -1,0 +1,37 @@
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th {
+    padding: 10px;
+    border: 1px solid #fffbfb;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-color:rgb(119, 206, 206);
+}
+
+.ac{
+    background-color:rgb(166, 240, 240);
+}
+
+.an{
+    background-color:rgb(166, 240, 212);
+}
+
+.gi{
+    background-color:rgb(169, 240, 166);
+}
+
+.ac{
+    background-color:rgb(240, 233, 166);
+}

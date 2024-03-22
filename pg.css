@@ -5,7 +5,7 @@ table {
 
 th {
     padding: 10px;
-    border: 1px solid #fffbfb;
+    border: 0px solid #fffbfb;
     text-align: center;
 }
 
@@ -16,22 +16,42 @@ img {
     margin: 0 auto;
 }
 
+
 body{
-    background-color:rgb(119, 206, 206);
+    background-color:rgb(171, 255, 255);
 }
 
 .ac{
-    background-color:rgb(166, 240, 240);
+    background-color:rgb(231, 255, 200);
 }
 
 .an{
-    background-color:rgb(166, 240, 212);
+    background-color:rgb(189, 255, 230);
 }
 
 .gi{
-    background-color:rgb(169, 240, 166);
+    background-color:rgb(192, 250, 190);
 }
 
-.ac{
-    background-color:rgb(240, 233, 166);
+.te{
+    background-color:rgb(252, 247, 206);
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Impact', sans-serif;
+  }
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Courier', monospace;
+ }
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Arial', sans-serif;
+  }
+
+button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Monaco', monospace;
+    border: 0px solid #ffdcdc;
+    text-align: center; 
+    font-size:20px;
 }
